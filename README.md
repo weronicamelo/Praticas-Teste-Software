@@ -1,2 +1,6 @@
-# Praticas-Teste-Software
-Estudos e exercícios desenvolvidos nas aulas de Teste de Software do curso Técnico em Desenvolvimento de Sistemas do SENAI.
+# Qa-Práticas
+
+. Conteúdo das aulas de teste de software 
+
+. Estudos e exercícios da matéria de teste de software utilizando python do SENAI
+
